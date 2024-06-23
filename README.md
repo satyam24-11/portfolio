@@ -1,1 +1,1 @@
-Live Link: https://splendorous-pegasus-a57425.netlify.app/
+Live Link: https://porfolio-satyam.netlify.app/
